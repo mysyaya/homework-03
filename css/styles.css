@@ -319,7 +319,6 @@
     min-width: 73px;
     padding: 6px 22px;
     border: 2px solid transparent
-
 }
 .secondary-button:hover {
     color: var(--white-text-color);
@@ -366,5 +365,7 @@
     font-size: 16px;
     line-height: 1.88;
 }
-.projects-link:focus{}
+.projects-link:focus {
+    
+}
 
